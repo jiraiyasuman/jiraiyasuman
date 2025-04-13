@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ICICI Bank Ltd.
+- 🔭 
 - 🌱 I’m currently learning to better myself in the existing coding
 - 👯 I’m looking to collaborate on several projects
 - 🤔 I’m looking for help with ...
