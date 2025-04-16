@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 
+- 🔭 I'm a software engineer currently associated with ICICI bank looking forward to new opportunities in life.
 - 🌱 I’m currently learning to better myself in the existing coding
 - 👯 I’m looking to collaborate on several projects
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a software engineer currently working in ICICI Bank Ltd.<br>Proficient in Spring Framework, J2EE, nodejs, python,react,angular,html,css,javascript<br>
+I am a software engineer currently working in ICICI Bank Ltd looking forward to new opportunities in life.<br>Proficient in Spring Framework, J2EE, nodejs, python,react,angular,html,css,javascript<br>
 
 
 ## 🌐 Socials:
