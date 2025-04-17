@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a software engineer currently working in ICICI Bank Ltd looking forward to new opportunities in life.<br>Proficient in Spring Framework, J2EE, nodejs, python,react,angular,html,css,javascript<br>
+I am a software engineer currently associated with ICICI Bank Ltd looking forward to new opportunities in life.<br>Proficient in full-stack engineering Spring Framework, J2EE, nodejs, python,react,angular,html,css,javascript<br>
 
 
 ## 🌐 Socials:
