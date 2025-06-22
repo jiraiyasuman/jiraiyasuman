@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm a software engineer currently associated with ICICI bank looking forward to new opportunities in life.
-- 🌱 I’m currently learning to better myself in the existing coding
+- 🔭 I'm a software engineer looking forward to new opportunities in life.
+- 🌱 I’m currently learning to better myself in the existing coding and I am very passionate in my domain...................
 - 👯 I’m looking to collaborate on several projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about code developers
